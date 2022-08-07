@@ -1,0 +1,14 @@
+
+#output{
+    position: absolute;
+    color: aqua;
+    margin-left: 20%;
+    margin-right: 10%;
+
+}
+button{
+    display: flex;
+    position: relative;
+    margin-left: 10%;
+    margin-top: 10%;
+}
